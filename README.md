@@ -4,12 +4,16 @@
 
 개발자들 또는 개발자가 되기를 희망하는 사람들을 위한 `한국어` 개발/CS 서적 리스트입니다. 출판된지 시간이 꽤 지나더라도 outdated 될 내용이 적은 책들 위주로 선정하였으며, 번역서의 경우 번역의 퀄리티를 고려했습니다. `Issue` 와 `Pull Request` 는 언제나 환영합니다.
 
-## Todos
+</br>
+
+## :memo: Todos
 
 * 책 리스트 추가 (특히 java 쪽)
 * 카테고리화
 
-## List
+</br>
+
+## :book: List
 
 * [더글라스 크락포드의 자바스크립트 핵심 가이드](http://www.yes24.com/24/goods/3071412)
 
@@ -57,7 +61,9 @@
 
 * [함수형 자바스크립트 프로그래밍](http://www.yes24.com/24/goods/56885507)
 
-## Non-Technical List
+</br>
+
+## :star: Non-Technical List
 
 * [장병규의 스타트업 한국: 4차산업혁명위원장 장병규의 스타트업 입문서](http://www.yes24.com/24/Goods/57654682)
 
