@@ -59,4 +59,8 @@
 
 * [함수형 자바스크립트 프로그래밍](http://www.yes24.com/24/goods/56885507)
 
+* [Clean Code 클린 코드: 애자일 소프트웨어 장인 정신](http://www.yes24.com/24/goods/11681152)
+
+
+
 </br>
