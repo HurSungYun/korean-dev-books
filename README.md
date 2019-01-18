@@ -60,9 +60,3 @@
 * [함수형 자바스크립트 프로그래밍](http://www.yes24.com/24/goods/56885507)
 
 </br>
-
-## :star: Non-Technical List
-
-* [장병규의 스타트업 한국: 4차산업혁명위원장 장병규의 스타트업 입문서](http://www.yes24.com/24/Goods/57654682)
-
-* [린 스타트업: 지속적 혁신을 실현하는 창업의 과학](http://www.yes24.com/24/Goods/7921251)
