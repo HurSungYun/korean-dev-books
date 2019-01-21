@@ -1,4 +1,4 @@
-# Korean Dev Books
+# Korean Dev Books [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 개발자들 또는 개발자가 되기를 희망하는 사람들을 위한 `한국어` 개발/CS 서적 큐레이션 리스트입니다. 출판된지 시간이 꽤 지나더라도 outdated 될 내용이 적은 책들 위주로 선정하였으며, 번역서의 경우 번역의 퀄리티를 고려했습니다. 지속적으로 업데이트할 예정이며, `Issue` 와 `Pull Request` 는 언제나 환영합니다.
 
@@ -8,6 +8,7 @@
 
 * 책 리스트 추가 (특히 java 쪽)
 * 카테고리화
+* [Awesome menifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) 만족하도록 작업하기
 
 </br>
 
