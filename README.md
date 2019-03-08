@@ -68,4 +68,6 @@
 
 * Node.js 교과서 [\[Yes24\]](http://www.yes24.com/24/goods/62597864) [\[교보문고\]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791160505221) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=158379304)
 
+* Kubernetes in Action: 그림과 상세한 설명을 통한 쿠버네티스 완벽 이해 [\[Yes24\]](http://www.yes24.com/Product/Goods/67151222) [\[교보문고\]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161752242) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=175612023)
+
 </br>
