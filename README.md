@@ -4,14 +4,6 @@
 
 </br>
 
-## :memo: Todos
-
-* 책 리스트 추가 (특히 java 쪽)
-* 카테고리화
-* [Awesome menifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) 만족하도록 작업하기
-
-</br>
-
 ## :book: List
 
 * 더글라스 크락포드의 자바스크립트 핵심 가이드 [\[Yes24\]](http://www.yes24.com/24/goods/3071412) [\[교보문고\]](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788979145984) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2608820)
@@ -69,5 +61,13 @@
 * Node.js 교과서 [\[Yes24\]](http://www.yes24.com/24/goods/62597864) [\[교보문고\]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791160505221) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=158379304)
 
 * Kubernetes in Action: 그림과 상세한 설명을 통한 쿠버네티스 완벽 이해 [\[Yes24\]](http://www.yes24.com/Product/Goods/67151222) [\[교보문고\]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161752242) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=175612023)
+
+</br>
+
+## :memo: Todos
+
+* 책 리스트 추가 (특히 java 쪽)
+* 카테고리화
+* [Awesome menifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) 만족하도록 작업하기
 
 </br>
