@@ -62,6 +62,8 @@
 
 * Kubernetes in Action: 그림과 상세한 설명을 통한 쿠버네티스 완벽 이해 [\[Yes24\]](http://www.yes24.com/Product/Goods/67151222) [\[교보문고\]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161752242) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=175612023)
 
+* 사이트 신뢰성 엔지니어링: 구글이 공개하는 서비스 개발과 운영 노하우 [\[Yes24\]](http://www.yes24.com/Product/goods/57979286) [\[교보문고\]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791188621088) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=129407308)
+
 </br>
 
 ## :memo: Todos
