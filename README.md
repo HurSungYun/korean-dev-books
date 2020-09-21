@@ -66,6 +66,7 @@
 
 * 데이터 중심 애플리케이션 설계 [\[Yes24\]](http://www.yes24.com/Product/Goods/59566585) [\[교보문고\]](http://kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158390983) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=140018308)
 
+* 성공과 실패를 결정하는 1%의 네트워크 원리 [\[Yes24\]](http://www.yes24.com/Product/Goods/3246410) [\[교보문고\]](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788931553482) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3046387)
 
 </br>
 
