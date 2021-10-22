@@ -70,7 +70,7 @@
 
 * 가상 면접 사례로 배우는 대규모 시스템 설계 기초 [\[Yes24\]](http://www.yes24.com/Product/Goods/102819435) [\[교보문고\]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966263158) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=276041776)
 
-* C#을 다루는 기술(AKA C# in Depth) [\[Yes24\]](http://www.yes24.com/Product/Goods/101511486) [\[교보문고\]](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791165215521) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=270856977)
+* C#을 다루는 기술(C# in Depth) [\[Yes24\]](http://www.yes24.com/Product/Goods/101511486) [\[교보문고\]](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791165215521) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=270856977)
 
 </br>
 
