@@ -68,6 +68,8 @@
 
 * 성공과 실패를 결정하는 1%의 네트워크 원리 [\[Yes24\]](http://www.yes24.com/Product/Goods/3246410) [\[교보문고\]](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788931553482) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3046387)
 
+* 가상 면접 사례로 배우는 대규모 시스템 설계 기초 [\[Yes24\]](http://www.yes24.com/Product/Goods/102819435) [\[교보문고\]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966263158) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=276041776)
+
 </br>
 
 ## :memo: Todos
