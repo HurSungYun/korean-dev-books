@@ -72,6 +72,12 @@
 
 * C#을 다루는 기술(C# in Depth) [\[Yes24\]](http://www.yes24.com/Product/Goods/101511486) [\[교보문고\]](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791165215521) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=270856977)
 
+* 모던 자바 인 액션: 람다, 스트림, 함수형, 리액티브 프로그래밍으로 새로워진 자바 마스터하기 [\[Yes24\]](http://www.yes24.com/Product/Goods/77125987) [\[교보문고\]](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9791162242025) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=K042635140&start=pnaver_02)
+
+* 객체지향의 사실과 오해: 역할, 책임, 협력 관점에서 본 객체지향 [\[Yes24\]](http://www.yes24.com/Product/Goods/18249021) [\[교보문고\]](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9788998139766) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8998139766&start=pnaver_02)
+
+* 이펙티브 자바 [\[Yes24\]](http://www.yes24.com/Product/Goods/65551284) [\[교보문고\]](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9788966262281) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8966262287&start=pnaver_02)
+
 </br>
 
 ## :memo: Todos
