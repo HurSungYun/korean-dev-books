@@ -80,6 +80,8 @@
 
 * CODE 코드 [\[Yes24\]](http://www.yes24.com/Product/Goods/16667186) [\[교보문고\]](https://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261253&orderClick=LEA&Kc=) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=53051178)
 
+* 클린 아키텍처: 소프트웨어 구조와 설계의 원칙 [\[Yes24\]](http://www.yes24.com/Product/Goods/77283734) [\[교보문고\]](https://product.kyobobook.co.kr/detail/S000001033082) [\[알라딘\]](http://aladin.kr/p/xM1l6)
+
 </br>
 
 ## :memo: Todos
