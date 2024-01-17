@@ -80,6 +80,8 @@
 
 * CODE 코드 [\[Yes24\]](http://www.yes24.com/Product/Goods/16667186) [\[교보문고\]](https://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261253&orderClick=LEA&Kc=) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=53051178)
 
+* DevOps와 SE를 위한 리눅스 커널 이야기 [\[Yes24\]](http://www.yes24.com/Product/Goods/44376723) [\[교보문고\]](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788966264049) [\[알라딘\]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=115452679)
+
 </br>
 
 ## :memo: Todos
